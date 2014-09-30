@@ -3,6 +3,11 @@ docker-elasticdump
 
 Docker binary wrapper around [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump)
 
+Build Status
+------------
+
+[Hub](https://registry.hub.docker.com/u/sherzberg/elasticdump/builds_history/61419/)
+
 Usage
 -----
 
