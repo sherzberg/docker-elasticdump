@@ -22,6 +22,12 @@ $ docker run -t sherzberg/elasticdump --input=http://production.es.com:9200/my_i
 
 See [here](https://github.com/taskrabbit/elasticsearch-dump#use) for more usage.
 
+TODO
+----
+
+[x] Basic `elasticdump` commands
+[ ] Enable optional container linking for input/output es nodes
+
 License
 -------
 
