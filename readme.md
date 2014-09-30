@@ -25,8 +25,8 @@ See [here](https://github.com/taskrabbit/elasticsearch-dump#use) for more usage.
 TODO
 ----
 
-[x] Basic `elasticdump` commands
-[ ] Enable optional container linking for input/output es nodes
+- [x] Basic `elasticdump` commands
+- [ ] Enable optional container linking for input/output es nodes
 
 License
 -------
